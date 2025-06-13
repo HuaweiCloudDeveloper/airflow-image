@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Airflow distributed message middleware</h1>
+  <h1 align="center">Airflow Workflow Platform</h1>
   <p align="center">
     <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
   </p>
@@ -25,7 +25,7 @@
 
 ![](./images/img001.png)
 
-This project offers pre-configured [**Airflow distributed message middleware**](https://marketplace.huaweicloud.com/intl/hidden/contents/90f89439-a7ca-497a-bc7f-68254efbde21) images with Airflow and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Airflow Workflow Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/90f89439-a7ca-497a-bc7f-68254efbde21) images with Airflow and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  
