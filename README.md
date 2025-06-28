@@ -1,51 +1,16 @@
-<p align="center">
-  <h1 align="center">Airflow Workflow Platform</h1>
-  <p align="center">
-    <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
-  </p>
+# Airflow2.1-kunpeng-v1.0
 
-## Table of Contents
+## 规格说明
 
-- [Repository Introduction](#repository-introduction)  
-- [Prerequisites](#prerequisites)  
-- [Image Specifications](#image-specifications)
-- [Getting Help](#getting-help)
-- [How to Contribute](#how-to-contribute)
+- 镜像商品：[Airflow分布式消息中间件](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808)
+- 镜像规格：Airflow2.1-kunpeng-v1.0
+- 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
+- CPU架构：Kunpeng-ARM
+- 操作系统：Huawei Cloud EulerOS 2.0 64bit / Ubuntu24.04 64bit
+- 资源编排服务（RFS）：ECS + EIP + VPC
 
-## Repository Introduction  
-[Apache Airflow](https://github.com/apache/Airflow) is a platform created by the community to programmatically author, schedule and monitor workflows.
+## 使用说明
 
-**Core Features:**
-1. Log collection: Airflow can collect logs of various services and open them to various consumers through Airflow as a unified interface service, such as Hadoop, Hbase, Solr, etc.  
-2. Metrics: Airflow is also frequently used to record operational monitoring data. Including collecting data from various distributed applications, producing centralized feedback for various operations such as alarms and reports.  
-3. Streaming processing: can be integrated with Spark streaming and Flink for use.  
-4. Flow limiting and peak clipping: Airflow can be used to write requests to Airflow when there are too many requests at a certain time in the Internet field, so as to avoid the service crash caused by directly requesting the back-end program.  
+- 使用说明：[Airflow分布式消息中间件](./docs/usage.md)
 
-**Architecture Design:**
-
-![](./images/img001.png)
-
-This project offers pre-configured [**Airflow Workflow Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/90f89439-a7ca-497a-bc7f-68254efbde21) images with Airflow and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
-
-> **System Requirements:**
-> - CPU: 2GHz or higher  
-> - RAM: 4GB or more  
-> - Disk: At least 40GB  
-
-## Prerequisites  
-[Register a Huawei account and activate Huawei Cloud](https://support.huaweicloud.com/usermanual-account/account_id_001.html)
-
-## Image Specifications  
-
-| Image Version                                                                                                            | Description                                         | Notes |  
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|  
-| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0)            | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit  |  |  
-
-## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/airflow-image/issues)
-- Contact Huawei Cloud Marketplace product support
-
-## How to Contribute
-- Fork this repository and submit a merge request.
-- Update README.md synchronously based on your open-source mirror information.
+更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/airflow-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
