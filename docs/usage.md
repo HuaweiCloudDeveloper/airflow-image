@@ -61,8 +61,8 @@
 
 # 四、商品使用
 
-## 修改 /etc/hosts 域名
-将 192.168.0.24 hadoop1 --> *.*.*.* hadoop1
+## 修改/etc/hosts 为自己的 ip
+将 192.168.0.24 hadoop1 --> X.X.X.X hadoop1
 
 ## 命令行进入 conda 虚拟环境
 conda activate python39
