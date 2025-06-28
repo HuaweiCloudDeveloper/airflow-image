@@ -40,11 +40,11 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                      | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------| --- |
-| [Airflow2.1_HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [Airflow2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
+| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
 
 ## 获取帮助
-- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/Airflow-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
+- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/airflow-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
 - 其他开源镜像可看 [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## 如何贡献
