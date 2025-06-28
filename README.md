@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Airflow分布式消息中间件](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808)
+- 镜像商品：[Airflow工作流平台](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952)
 - 镜像规格：Airflow2.1-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM
@@ -11,6 +11,6 @@
 
 ## 使用说明
 
-- 使用说明：[Airflow分布式消息中间件](./docs/usage.md)
+- 使用说明：[Airflow工作流平台](./docs/usage.md)
 
 更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/airflow-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
