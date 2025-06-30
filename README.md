@@ -37,13 +37,13 @@ This project offers pre-configured [**Airflow Workflow Platform**](https://marke
 
 ## Image Specifications  
 
-| Image Version                                                                                                       | Description                                               | Notes |  
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------|  
-| [Airflow2.1_HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/90f89439-a7ca-497a-bc7f-68254efbde21) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [Airflow2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/90f89439-a7ca-497a-bc7f-68254efbde21)  | Deployed on Kunpeng servers with Ubuntu24.04 64bit 64bit  |  |  
+| Image Version                                                                                                            | Description                                         | Notes |  
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|  
+| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0)            | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [Airflow2.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Airflow2.1-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit  |  |  
 
 ## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/Airflow-image/issues)
+- Submit an [issue](https://github.com/HuaweiCloudDeveloper/airflow-image/issues)
 - Contact Huawei Cloud Marketplace product support
 
 ## How to Contribute
