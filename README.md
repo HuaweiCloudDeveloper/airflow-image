@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Airflow工作流平台](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952)
+- 镜像商品：[Airflow工作流平台](https://marketplace.huaweicloud.com/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281827882840064)
 - 镜像规格：Airflow2.1-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM
